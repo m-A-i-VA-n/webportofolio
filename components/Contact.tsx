@@ -8,7 +8,7 @@ export default function Contact() {
         and interesting projects.
       </p>
 
-      <a href="mail to:affaniakhsan1@gmail.com">
+      <a href="mailto:affaniakhsan1@gmail.com">
         Email Me
       </a>
     </section>
